@@ -1,0 +1,14 @@
+C:\Users\charg\source\repos\Class11Jokes\Class11Jokes\Class11Jokes\obj\Debug\netstandard2.0\Class11Jokes.csprojAssemblyReference.cache
+C:\Users\charg\source\repos\Class11Jokes\Class11Jokes\Class11Jokes\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\charg\source\repos\Class11Jokes\Class11Jokes\Class11Jokes\obj\Debug\netstandard2.0\JokeItemPage.xaml.g.cs
+C:\Users\charg\source\repos\Class11Jokes\Class11Jokes\Class11Jokes\obj\Debug\netstandard2.0\JokeListPage.xaml.g.cs
+C:\Users\charg\source\repos\Class11Jokes\Class11Jokes\Class11Jokes\obj\Debug\netstandard2.0\Class11Jokes.AssemblyInfoInputs.cache
+C:\Users\charg\source\repos\Class11Jokes\Class11Jokes\Class11Jokes\obj\Debug\netstandard2.0\Class11Jokes.AssemblyInfo.cs
+C:\Users\charg\source\repos\Class11Jokes\Class11Jokes\Class11Jokes\bin\Debug\netstandard2.0\Class11Jokes.deps.json
+C:\Users\charg\source\repos\Class11Jokes\Class11Jokes\Class11Jokes\bin\Debug\netstandard2.0\Class11Jokes.dll
+C:\Users\charg\source\repos\Class11Jokes\Class11Jokes\Class11Jokes\bin\Debug\netstandard2.0\ref\Class11Jokes.dll
+C:\Users\charg\source\repos\Class11Jokes\Class11Jokes\Class11Jokes\bin\Debug\netstandard2.0\Class11Jokes.pdb
+C:\Users\charg\source\repos\Class11Jokes\Class11Jokes\Class11Jokes\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\charg\source\repos\Class11Jokes\Class11Jokes\Class11Jokes\obj\Debug\netstandard2.0\Class11Jokes.dll
+C:\Users\charg\source\repos\Class11Jokes\Class11Jokes\Class11Jokes\obj\Debug\netstandard2.0\ref\Class11Jokes.dll
+C:\Users\charg\source\repos\Class11Jokes\Class11Jokes\Class11Jokes\obj\Debug\netstandard2.0\Class11Jokes.pdb
